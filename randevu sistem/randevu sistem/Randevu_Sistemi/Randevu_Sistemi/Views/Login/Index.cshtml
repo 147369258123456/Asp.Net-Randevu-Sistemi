@@ -1,0 +1,25 @@
+﻿@using Randevu_Sistemi.ViewModels
+@model LoginVM
+
+
+<h2>Giriş Formu</h2>
+
+<form method="post">
+
+	<div class="mb-3 mt-3">
+		<label class="form-label"> Kullanıcı adı:</label>
+		<input class="form-control" asp-for="@Model.Username">
+		<span asp-validation-for="@Model.Username"></span>
+	</div>
+
+	<div class="mb-3 mt-3">
+		<label class="form-label"> Şifre:</label>
+		<input class="form-control" asp-for="@Model.Password">
+		<span asp-validation-for="@Model.Password"></span>
+	</div>
+
+	<p>
+		<button type="submit" class="btn btn-primary">Gönder</button>
+	</p>
+
+</form>

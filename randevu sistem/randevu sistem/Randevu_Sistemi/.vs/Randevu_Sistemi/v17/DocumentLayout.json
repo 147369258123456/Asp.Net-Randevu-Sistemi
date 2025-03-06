@@ -1,0 +1,773 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\controllers\\controllerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\controllers\\controllerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hasta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hasta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\controllers\\hastacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\controllers\\hastacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hasta\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hasta\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hasta\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hasta\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\viewmodels\\hastasearchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\viewmodels\\hastasearchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\models\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\models\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hasta\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hasta\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\controllers\\hekimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\controllers\\hekimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\viewmodels\\hastace_vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\viewmodels\\hastace_vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\controllers\\hastalikturucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\controllers\\hastalikturucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\viewmodels\\hastalistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\viewmodels\\hastalistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\models\\hekim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\models\\hekim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\models\\userlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\models\\userlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\viewmodels\\selectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\viewmodels\\selectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\models\\hastalikturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\models\\hastalikturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hekim\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hekim\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hekim\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hekim\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\viewmodels\\sessionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\viewmodels\\sessionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\data\\uygulamadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\data\\uygulamadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hastalikturu\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hastalikturu\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\models\\rolepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\models\\rolepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hekim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hekim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hekim\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hekim\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hastalikturu\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hastalikturu\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hastalikturu\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hastalikturu\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hastalikturu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hastalikturu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\views\\hasta\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\views\\hasta\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\randevu_sistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\randevu_sistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|c:\\users\\hp\\desktop\\randevu sistem\\randevu_sistemi\\randevu_sistemi\\migrations\\20241229185129_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E81092-23A4-4BCC-8569-6F9810435D06}|Randevu_Sistemi\\Randevu_Sistemi.csproj|solutionrelative:randevu_sistemi\\migrations\\20241229185129_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hasta\\Index.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Hasta\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hasta\\Index.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Hasta\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:16:37.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HastaSearchVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\ViewModels\\HastaSearchVM.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\ViewModels\\HastaSearchVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\ViewModels\\HastaSearchVM.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\ViewModels\\HastaSearchVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:27:48.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:27:03.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:27:06.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hasta\\Search.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Hasta\\Search.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hasta\\Search.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Hasta\\Search.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T23:23:41.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hasta\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Hasta\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hasta\\Guncelle.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Hasta\\Guncelle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:22:21.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HastaController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Controllers\\HastaController.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Controllers\\HastaController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Controllers\\HastaController.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Controllers\\HastaController.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAcwCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:11:05.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Controllers\\ControllerBase.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Controllers\\ControllerBase.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Controllers\\ControllerBase.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Controllers\\ControllerBase.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowBsAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:48:34.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T22:59:28.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T12:17:11.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T12:17:12.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T13:44:26.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\Hasta.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Models\\Hasta.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\Hasta.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Models\\Hasta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:50:36.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hasta\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Hasta\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hasta\\Ekle.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Hasta\\Ekle.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:20:47.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HekimController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Controllers\\HekimController.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Controllers\\HekimController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Controllers\\HekimController.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Controllers\\HekimController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:15:43.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:30:26.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HastalikTuruController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Controllers\\HastalikTuruController.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Controllers\\HastalikTuruController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Controllers\\HastalikTuruController.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Controllers\\HastalikTuruController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:37:51.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HastaCE_VM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\ViewModels\\HastaCE_VM.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\ViewModels\\HastaCE_VM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\ViewModels\\HastaCE_VM.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\ViewModels\\HastaCE_VM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:42:14.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HastaListVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\ViewModels\\HastaListVM.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\ViewModels\\HastaListVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\ViewModels\\HastaListVM.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\ViewModels\\HastaListVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:47:11.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:25:30.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:22:12.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Hekim.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\Hekim.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Models\\Hekim.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\Hekim.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Models\\Hekim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:06:43.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserLog.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\UserLog.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Models\\UserLog.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\UserLog.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Models\\UserLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:31:01.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SelectItem.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\ViewModels\\SelectItem.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\ViewModels\\SelectItem.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\ViewModels\\SelectItem.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\ViewModels\\SelectItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:46:05.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HastalikTuru.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\HastalikTuru.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Models\\HastalikTuru.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\HastalikTuru.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Models\\HastalikTuru.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:39:44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hekim\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Hekim\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hekim\\Ekle.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Hekim\\Ekle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:31:03.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hekim\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Hekim\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hekim\\Guncelle.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Hekim\\Guncelle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:34:47.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SessionVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\ViewModels\\SessionVM.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\ViewModels\\SessionVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\ViewModels\\SessionVM.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\ViewModels\\SessionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:29:07.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20241229185129_init.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Migrations\\20241229185129_init.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Migrations\\20241229185129_init.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Migrations\\20241229185129_init.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Migrations\\20241229185129_init.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:51:29.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UygulamaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Data\\UygulamaDbContext.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Data\\UygulamaDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Data\\UygulamaDbContext.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Data\\UygulamaDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:09:33.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:23:49.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\appsettings.json",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\appsettings.json",
+              "RelativeToolTip": "Randevu_Sistemi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T11:47:35.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Models\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\Kullanici.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Models\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:45:00.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\Role.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:11:29.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Program.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:16:15.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\HastalikTuru\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\HastalikTuru\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\HastalikTuru\\Ekle.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\HastalikTuru\\Ekle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:03:30.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RolePage.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\RolePage.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Models\\RolePage.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\RolePage.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Models\\RolePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:12:54.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Randevu_Sistemi\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:22:20.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hekim\\Index.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Hekim\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hekim\\Index.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Hekim\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwDwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:27:40.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\HastalikTuru\\Sil.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\HastalikTuru\\Sil.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\HastalikTuru\\Sil.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\HastalikTuru\\Sil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T15:43:37.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hekim\\Sil.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Hekim\\Sil.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hekim\\Sil.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Hekim\\Sil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:38:57.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\HastalikTuru\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\HastalikTuru\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\HastalikTuru\\Guncelle.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\HastalikTuru\\Guncelle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T15:33:59.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\HastalikTuru\\Index.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\HastalikTuru\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\HastalikTuru\\Index.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\HastalikTuru\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAIBJwCYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T13:42:38.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hasta\\Sil.cshtml",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Views\\Hasta\\Sil.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Views\\Hasta\\Sil.cshtml",
+              "RelativeToolTip": "Randevu_Sistemi\\Views\\Hasta\\Sil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:26:04.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "Randevu_Sistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-23T13:32:55.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T11:49:08.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Randevu_Sistemi.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Randevu_Sistemi.csproj",
+              "RelativeDocumentMoniker": "Randevu_Sistemi\\Randevu_Sistemi.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\randevu sistem\\Randevu_Sistemi\\Randevu_Sistemi\\Randevu_Sistemi.csproj",
+              "RelativeToolTip": "Randevu_Sistemi\\Randevu_Sistemi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T11:33:07.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

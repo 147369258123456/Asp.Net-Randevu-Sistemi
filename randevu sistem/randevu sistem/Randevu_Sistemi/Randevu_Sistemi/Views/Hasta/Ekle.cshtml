@@ -1,0 +1,35 @@
+﻿
+
+
+@using Randevu_Sistemi.ViewModels
+@model HastaCE_VM
+
+<h2>Kayıt Formu</h2>
+
+<form method="post">
+
+	<div class="mb-3 mt-3">
+		<label class="form-label"> Ad soyad:</label>
+		<input class="form-control" asp-for="@Model.HastaAd">
+		<span asp-validation-for="@Model.HastaAd"></span>
+	</div>
+
+	
+	
+	<div class="mb-3 mt-3">
+		<label class="form-label">Hekim:</label>
+		<select class="form-control" asp-for="@Model.HekimId" asp-items="@(new SelectList(Model.HekimList, "Id", "Name"))">
+			<option value="-1">Select</option>
+		</select>
+	</div>
+	<div class="mb-3 mt-3">
+		<label class="form-label">Hastalık Türü:</label>
+		<select class="form-control" asp-for="@Model.HastalikTuruId" asp-items="@(new SelectList(Model.HastalikTuruList, "Id", "Name"))">
+			<option value="-1">Select</option>
+		</select>
+	</div>
+	<p>
+		<button type="submit" class="btn btn-primary">Gönder</button>
+	</p>
+
+</form>

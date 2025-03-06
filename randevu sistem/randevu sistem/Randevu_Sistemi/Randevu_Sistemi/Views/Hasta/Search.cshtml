@@ -1,0 +1,60 @@
+﻿@using Randevu_Sistemi.ViewModels
+@model HastaSearchVM
+
+<h2>Arama Formu</h2>
+
+<form method="post">
+
+
+	<div class="mb-3 mt-3">
+		<label class="form-label"> Ad soyad:</label>
+		<input class="form-control" asp-for="@Model.HastaAd">
+		<span asp-validation-for="@Model.HastaAd"></span>
+	</div>
+
+	
+
+	<div class="mb-3 mt-3">
+		<label class="form-label">Hekimler:</label>
+		<select class="form-control" asp-for="@Model.HekimId" asp-items="@(new SelectList(Model.HekimList, "Id", "Name"))">
+			<option value="-1">Select</option>
+		</select>
+	</div>
+
+	<div class="mb-3 mt-3">
+		<label class="form-label">Hastalık Türleri:</label>
+		<select class="form-control" asp-for="@Model.HastalikTuruId" asp-items="@(new SelectList(Model.HastalikTuruList, "Id", "Name"))">
+			<option value="-1">Select</option>
+		</select>
+	</div>
+
+	<p>
+		<button type="submit" class="btn btn-primary">Gönder</button>
+	</p>
+	
+
+</form>
+
+
+<hr />
+@if (Model.ResultList != null)
+{
+	<table class="table">
+		@foreach (var item in Model.ResultList)
+		{
+			<tr>
+				<td>@item.HastaAd</td>
+				<td>@item.HastalikName</td>
+				<td>@item.HekimName</td>
+
+				<td><a asp-action="Sil" asp-route-id="@item.Id" class="btn btn-danger">Sil</a></td>
+				<td><a asp-action="Guncelle" asp-route-id="@item.Id" class="btn btn-primary">Güncelle</a></td>
+				<td><a asp-action="Search" asp-route-id="@item.Id" class="btn btn-primary">Ara</a></td>
+				
+			</tr>
+		}
+
+	</table>
+}
+
+

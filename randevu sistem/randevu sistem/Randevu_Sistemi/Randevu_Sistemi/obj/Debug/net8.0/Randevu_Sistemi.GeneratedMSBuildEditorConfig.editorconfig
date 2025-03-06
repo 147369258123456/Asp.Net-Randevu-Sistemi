@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Randevu_Sistemi
+build_property.RootNamespace = Randevu_Sistemi
+build_property.ProjectDir = C:\Users\HP\Desktop\randevu sistem\Randevu_Sistemi\Randevu_Sistemi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\randevu sistem\Randevu_Sistemi\Randevu_Sistemi
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/HastalikTuru/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFsaWtUdXJ1XEVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/HastalikTuru/Guncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFsaWtUdXJ1XEd1bmNlbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/HastalikTuru/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFsaWtUdXJ1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/HastalikTuru/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFsaWtUdXJ1XFNpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Hasta/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Hasta/Guncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcR3VuY2VsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Hasta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Hasta/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Hasta/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Hekim/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVraW1cRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Hekim/Guncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVraW1cR3VuY2VsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Hekim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVraW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Hekim/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVraW1cU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/randevu sistem/Randevu_Sistemi/Randevu_Sistemi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-s2nqliajv1

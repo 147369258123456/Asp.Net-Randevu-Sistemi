@@ -1,0 +1,43 @@
+﻿@using Newtonsoft.Json
+@using Randevu_Sistemi.ViewModels
+@model List<HastaListVM>
+
+@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+
+	var value = Context.Session.GetString("UserSessionInfo");
+	var ses = JsonConvert.DeserializeObject<SessionVM>(value);
+}
+<h2>Liste @ViewBag.Kullanici</h2>
+<a asp-action="Ekle" class="btn btn-success">Ekle</a>
+<a asp-action="Search" class="btn btn-success">Search</a>
+<table class="table">
+	@foreach (var item in Model)
+	{
+		<tr>
+			<td>@item.HastaAd</td>
+			<td>@item.HekimName</td>
+			<td>@item.HastalikName</td>
+
+
+			@if (ses.UserRoleId == 1)
+			{
+				<td><a asp-action="Sil" asp-route-id="@item.Id" class="btn btn-danger">Sil</a></td>
+				<td><a asp-action="Guncelle" asp-route-id="@item.Id" class="btn btn-primary">Güncelle</a></td>
+				<td><a asp-action="Ekle" asp-route-id="@item.Id" class="btn btn-primary">Ekle</a></td>
+				@* <td><a asp-action="Search" asp-route-id="@item.Id" class="btn btn-primary">Ara</a></td> *@
+			}
+			<td><a asp-action="Sil" asp-route-id="@item.Id" class="btn btn-danger">Sil</a></td>
+			<td><a asp-action="Guncelle" asp-route-id="@item.Id" class="btn btn-primary">Güncelle</a></td>
+			@* <td><a asp-action="Ekle" asp-route-id="@item.Id" class="btn btn-primary">Ekle</a></td> *@
+			@* <td><a asp-action="Search" asp-route-id="@item.Id" class="btn btn-primary">Ara</a></td>  *@
+
+			
+
+		</tr>
+	}
+
+	
+
+</table>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Randevu_Sistemi.props" />
+</Project>
